@@ -1,11 +1,11 @@
 Questions = {
     1:{
-        "q":"Hola soy la pregunta 1",
-        "a":"respuesta1",
-        "b":"respuesta2",
-        "c":"respuesta3",
-        "d":"respuesta4",
-        "correct":"a"
+        "q":"What's the biggest world's ocean?",
+        "a":"Atlantic Ocean",
+        "b":"Arctic glacier",
+        "c":"Pacific Ocean",
+        "d":"Indian Ocean",
+        "correct":"c"
     },
     2:{
         "q":"Hola soy la pregunta 2",
