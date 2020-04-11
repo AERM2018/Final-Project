@@ -25,6 +25,6 @@ class TimeThread (threading.Thread):
             elif (cont) ==0:
                 print("Se acabo tu tiempo, presiona enter para continuar")
                 return
-            print("{}.".format(cont),end=' ' )
+            print("{} ->".format(cont),end=' ' )
             cont-=1
-            time.sleep(1)
+            time.sleep(1.2)
