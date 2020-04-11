@@ -43,9 +43,6 @@ def get_score():
     print("--------------------------\n")
 
 
-# def create_and_show_time():
-#     win = Tk()
-#     win.mainloop()
 
 show_instructions()
 nPlayers,score = get_nplayers()
@@ -66,10 +63,6 @@ for i in questions:
         print("\nplayer "+str(k+1))
         ans = input()
         t.stop()
-        w = Tk()
-        w.mainloop()
-        time.sleep(3)
-        w.destroy()
         get_score()
 
       
