@@ -1,6 +1,6 @@
 Questions = {
     1:{
-        "q":"What's the biggest world's ocean?",
+        "text":"What's the biggest world's ocean?",
         "a":"Atlantic Ocean",
         "b":"Arctic glacier",
         "c":"Pacific Ocean",
@@ -8,31 +8,31 @@ Questions = {
         "correct":"c"
     },
     2:{
-        "q":"Hola soy la pregunta 2",
-        "ans1":"respuesta1",
-        "ans2":"respuesta2",
-        "ans3":"respuesta3",
-        "ans4":"respuesta4",
-        "correct":"respuesta2"
+        "text":"What year was John F. Kennedy assassinated?",
+        "a":"1963",
+        "b":"1950",
+        "c":"1985",
+        "d":"1965",
+        "correct":"a"
     },
     3:{
-        "q":"Hola soy la segunda pregunta 3",
-        "ans1":"respuesta1",
-        "ans2":"respuesta2",
-        "ans3":"respuesta3",
-        "ans4":"respuesta4",
-        "correct":"respuesta2"
+        "text":"Who wrote \"The Republic\"?",
+        "a":"Pitagoras",
+        "b":"Leonardo Da Vinci",
+        "c":"Empedocles",
+        "d":"Platon",
+        "correct":"d"
     },
     4:{
-        "q":"Hola soy la segunda pregunta 4",
-        "ans1":"respuesta1",
-        "ans2":"respuesta2",
-        "ans3":"respuesta3",
-        "ans4":"respuesta4",
-        "correct":"respuesta2"
+        "text":"What was the name of the Sun God in Ancient Egypt?",
+        "a":"Osiris",
+        "b":"Ra",
+        "c":"Anubis",
+        "d":"Nut",
+        "correct":"b"
     },
     5:{
-        "q":"Hola soy la segunda pregunta 5",
+        "text":"What was the first film created by \"Disney\" ",
         "ans1":"respuesta1",
         "ans2":"respuesta2",
         "ans3":"respuesta3",
