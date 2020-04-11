@@ -40,20 +40,20 @@ Questions = {
         "correct":"respuesta2"
     },
     6:{
-        "q":"Hola soy la segunda pregunta 6",
-        "ans1":"respuesta1",
-        "ans2":"respuesta2",
-        "ans3":"respuesta3",
-        "ans4":"respuesta4",
-        "correct":"respuesta2"
+        "text":"What is the largest planet in the solar system?",
+        "a":"Earth",
+        "b":"Mars",
+        "c":"Jupiter",
+        "d":"Uranus",
+        "correct":"c"
     },
     7:{
-        "q":"Hola soy la segunda pregunta 7",
-        "ans1":"respuesta1",
-        "ans2":"respuesta2",
-        "ans3":"respuesta3",
-        "ans4":"respuesta4",
-        "correct":"respuesta2"
+        "text":"What is the fourth digit of the pi number?",
+        "a":"3",
+        "b":"1",
+        "c":"6",
+        "d":"8",
+        "correct":"c"
     },
     8:{
         "q":"Hola soy la segunda pregunta 8",
