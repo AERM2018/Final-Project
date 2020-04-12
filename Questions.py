@@ -120,132 +120,124 @@ Questions = {
         "correct":"c"
     },
     16:{
-        "text":"",
-        "a":"",
-        "b":"",
-        "c":"",
-        "d":"",
-        "correct":""
+        "text":"How many times does a person blink a week?",
+        "a":"20,000",
+        "b":"25,000",
+        "c":"18,500",
+        "d":"35,000",
+        "correct":"b"
     },
     17:{
-        "text":"",
-        "a":"",
-        "b":"",
-        "c":"",
-        "d":"",
-        "correct":""
+        "text":"What is the most expensive metal in the world?",
+        "a":"Silver",
+        "b":"Platinum",
+        "c":"Rhodium",
+        "d":"Gold",
+        "correct":"c"
     },
     18:{
-        "text":"",
-        "a":"",
-        "b":"",
-        "c":"",
-        "d":"",
-        "correct":""
-    },
-    18:{
-        "text":"",
-        "a":"",
-        "b":"",
-        "c":"",
-        "d":"",
-        "correct":""
+        "text":"What is the largest artery in the body?",
+        "a":"Aorta",
+        "b":"Femoral",
+        "c":"Jugular",
+        "d":"Carotid",
+        "correct":"a"
     },
     19:{
-        "text":"",
-        "a":"",
-        "b":"",
-        "c":"",
-        "d":"",
-        "correct":""
+        "text":"What year did Kurt Cobain die?",
+        "a":"1995",
+        "b":"1994",
+        "c":"1920",
+        "d":"2000",
+        "correct":"b"
     },
     20:{
-        "text":"",
-        "a":"",
-        "b":"",
-        "c":"",
-        "d":"",
-        "correct":""
+        "text":"What is the first element of the periodic table?",
+        "a":"Hydrogen",
+        "b":"Helium",
+        "c":"Sulfur",
+        "d":"Lead",
+        "correct":"a"
     },
     21:{
-        "text":"",
-        "a":"",
-        "b":"",
-        "c":"",
-        "d":"",
-        "correct":""
+        "text":"How many legs does a spider have?",
+        "a":"6",
+        "b":"10",
+        "c":"12",
+        "d":"8",
+        "correct":"d"
     },
     22:{
-        "text":"",
-        "a":"",
-        "b":"",
-        "c":"",
-        "d":"",
-        "correct":""
+        "text":"How old was Mozart when he died?",
+        "a":"20",
+        "b":"35",
+        "c":"42",
+        "d":"50",
+        "correct":"b"
     },
     23:{
-        "text":"",
-        "a":"",
-        "b":"",
-        "c":"",
-        "d":"",
-        "correct":""
+        "text":"What is the first musical note?",
+        "a":"A",
+        "b":"G",
+        "c":"F",
+        "d":"C",
+        "correct":"d"
     },
     24:{
-        "text":"",
-        "a":"",
-        "b":"",
-        "c":"",
-        "d":"",
-        "correct":""
+        "text":"Which organ of the body produces insulin?",
+        "a":"Pancreas",
+        "b":"Liver",
+        "c":"Kidney",
+        "d":"Intestine",
+        "correct":"a"
     },
     25:{
-        "text":"",
-        "a":"",
-        "b":"",
-        "c":"",
-        "d":"",
-        "correct":""
+        "text":"What's the highest world's building",
+        "a":"Empire State",
+        "b":"Burj Khalifa",
+        "c":"Wold Trade Center",
+        "d":"Latin American Tower",
+        "correct":"b"
     },
     26:{
-        "text":"",
-        "a":"",
-        "b":"",
-        "c":"",
-        "d":"",
-        "correct":""
+        "text":"How many volcanoes make up the island of Hawaii?",
+        "a":"6",
+        "b":"8",
+        "c":"5",
+        "d":"10",
+        "correct":"c"
     },
     27:{
-        "text":"",
-        "a":"",
-        "b":"",
-        "c":"",
-        "d":"",
-        "correct":""
+    "text":"Who wrote the novel \"Rayuela\"",
+        "a":"Ernesto Sabato",
+        "b":"Pablo Neruda",
+        "c":"Julio Cortazar",
+        "d":"Sthepen Hawking",
+        "correct":"c"
     },
     28:{
-        "text":"",
-        "a":"",
-        "b":"",
-        "c":"",
-        "d":"",
-        "correct":""
+        "text":"Which city has the most museums in the world?",
+        "a":"Mexico city",
+        "b":"London",
+        "c":"Paris",
+        "d":"Berlin",
+        "correct":"b "
     },
     29:{
-        "text":"",
-        "a":"",
-        "b":"",
-        "c":"",
-        "d":"",
-        "correct":""
+        "text":"How many planets has the solar system?",
+        "a":"9",
+        "b":"7",
+        "c":"10",
+        "d":"8",
+        "correct":"d"
     },
     30:{
-        "text":"",
-        "a":"",
-        "b":"",
-        "c":"",
-        "d":"",
-        "correct":""
+        "text":"What's the largest world's river?",
+        "a":"Amazonas river",
+        "b":"Missiisipi-Misuri river",
+        "c":"Nilo river",
+        "d":"Orinoco",
+        "correct":"a"
     }
 }
 
