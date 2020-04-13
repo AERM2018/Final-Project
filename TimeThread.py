@@ -4,7 +4,7 @@ import time
 
 class TimeThread (threading.Thread):
     #constructor method
-    def __init__(self)
+    def __init__(self):
         threading.Thread.__init__(self)
         #create a internal variable that allow me to stop the thread, at the begginig is False
         self.stopit = threading.Event()
